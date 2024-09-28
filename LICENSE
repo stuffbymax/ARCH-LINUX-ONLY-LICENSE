@@ -16,6 +16,7 @@ Permission is hereby granted to any person obtaining a copy of this software and
     Arch Linux Verification: Any individual or entity wishing to modify the Software must verify that they are running Arch Linux on their system at the time of modification. Verification may include, but is not limited to:
         Running the uname -a command to display system information.
         Demonstrating the presence of the pacman package manager, which is typically used on Arch Linux.
+        screenshot of your system to prove arch is not running in virtual mashine
 
 3. Attribution
 
@@ -24,7 +25,7 @@ This Software must display the following notice in all copies or substantial por
 "This project may only be modified by users of Arch Linux running on real physical systems."
 4. Prohibited Actions
 
-    Operating System Restrictions: Users running operating systems other than Arch Linux, including but not limited to Ubuntu, Fedora, macOS, or Windows, are prohibited from modifying the Software. Users of BSD systems and all other Linux distributions can use the Software but are also prohibited from modifying it.
+    Operating System Restrictions: Users running operating systems other than Arch Linux, including but not limited to Ubuntu, Fedora, macOS, or Windows, are prohibited from modifying the Software. Users of BSD systems and all other Linux distributions and unix like Operating system can use the Software but are also prohibited from modifying it.
 
     Virtualization Restrictions: Users running Arch Linux or any other operating system in a virtualized or containerized environment (including VMs, containers, or cloud instances) are explicitly prohibited from modifying or running the Software.
 
