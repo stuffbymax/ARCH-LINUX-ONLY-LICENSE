@@ -1,0 +1,34 @@
+Arch Linux Users-Only License (ALUOL) v1.1
+1. License Grant
+
+Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, and distribute the Software for any purpose, subject to the following conditions:
+
+    Modification Restriction: The right to modify, alter, or contribute to the Software (including but not limited to submitting pull requests, patches, or changes) is explicitly granted only to users of the Arch Linux operating system running on physical (non-virtualized) machines.
+
+2. Usage Restrictions
+
+    Prohibition on Virtual Machines: The Software may only be run and modified on real, physical hardware. Use of the Software in any virtualized environment, including but not limited to VirtualBox, VMware, QEMU, Docker, or any cloud-based or containerized environment, is explicitly prohibited.
+
+    Physical Systems Requirement: The Software can only be executed, modified, or developed on systems that natively run Arch Linux as the primary operating system on bare metal (physical hardware).
+
+    Arch Linux Verification: Any individual or entity wishing to modify the Software must verify that they are running Arch Linux on their system at the time of modification. Verification may include, but is not limited to:
+        Running the uname -a command to display system information.
+        Demonstrating the presence of the pacman package manager, which is typically used on Arch Linux.
+
+3. Attribution
+
+This Software must display the following notice in all copies or substantial portions of the Software:
+
+    "This project may only be modified by users of Arch Linux running on real physical systems."
+
+4. Prohibited Actions
+
+    Operating System Restrictions: Users running operating systems other than Arch Linux, including but not limited to Ubuntu, Fedora, macOS, or Windows, are prohibited from modifying or running the Software.
+
+    Virtualization Restrictions: Users running Arch Linux or any other operating system in a virtualized or containerized environment (including VMs, containers, or cloud instances) are explicitly prohibited from modifying or running the Software.
+
+    Violation and Reversion: Any modifications or contributions made by users not in compliance with these terms (e.g., using non-physical systems or non-Arch Linux environments) will be considered a violation of this license and must be reverted.
+
+5. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
