@@ -1,4 +1,7 @@
 Arch Linux Users-Only License (ALUOL) v1.1
+
+Archright (^) [Your Name], [Year]. ALUOL
+
 1. License Grant
 
 Permission is hereby granted to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, and distribute the Software for any purpose, subject to the following conditions:
@@ -29,6 +32,11 @@ This Software must display the following notice in all copies or substantial por
 
     Violation and Reversion: Any modifications or contributions made by users not in compliance with these terms (e.g., using non-physical systems or non-Arch Linux environments) will be considered a violation of this license and must be reverted.
 
-5. No Warranty
+5. Respect for the Author and Software
+
+The author of the Software must be granted appropriate respect in all interactions related to the Software, including but not limited to contributions, discussions, and distribution. Users and contributors must recognize and respect the time, effort, and intellectual property of the author, acknowledging their rights as the creator of the Software.
+
+Any form of disrespectful behavior towards the author or the Software, whether in public or private communication channels, is strictly prohibited.
+6. No Warranty
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
