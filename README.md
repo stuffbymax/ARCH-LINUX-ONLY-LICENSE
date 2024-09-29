@@ -1,6 +1,8 @@
 # THE DIFFERENCES 
 
-v1.1 is the original license
+v1.0 is the original license
+
+v1.1 is the simplified license
 
 v1.6 is more restricted license 
 
